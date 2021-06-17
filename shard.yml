@@ -1,0 +1,10 @@
+name: jq
+version: 0.10.0
+
+authors:
+  - maiha <maiha@wota.jp>
+  - r3id <alan@r3id.dev>
+
+crystal: ">= 0.35.1, < 2.0.0"
+
+license: MIT
